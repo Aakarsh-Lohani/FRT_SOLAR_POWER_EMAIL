@@ -3,4 +3,5 @@ Simple Mail Transfer Protocol with Node.js (nodemailer) is used to send emails t
 Uses : Node.js with SMTP (Azure Function)
 
 Main Project Repo : https://github.com/Aakarsh-Lohani/FRT_Solar_Power
+
 Solar Power Website Live At : https://solarfrt.azurewebsites.net/
