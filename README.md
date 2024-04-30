@@ -6,6 +6,8 @@ Main Project Repo : https://github.com/Aakarsh-Lohani/FRT_Solar_Power
 
 Solar Power Website Live At : https://solarfrt.azurewebsites.net/
 
+Visit this link for Azure Function (HTTPS Triggered) : https://github.com/Aakarsh-Lohani/FRT_SOLAR_POWER_EMAIL/blob/master/src/functions/httpTrigger1.js
+
 ##Screenshots
 
 ![Azure Services used 2](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/852d4079-8957-4ac4-ba97-a789d630d497)
